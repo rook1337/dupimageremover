@@ -12,4 +12,4 @@ This tool can help you identify images with duplicate content, this can help in 
 
 
 Credit goes to https://github.com/cw-somil/Duplicate-Remover
-I have just modified the above script for Bug bounty usage
+I have just modified this script for Bug bounty usage
