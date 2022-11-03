@@ -1,7 +1,6 @@
-## Find Duplicate and Similar Images
+## What is the use of this tool?
+This tool can help you identify images with duplicate content, this can help in Recon process to fetch only unique result.
 
-Check out the tutorial
-[Remove Duplicates and Find Similar Images with Python](https://medium.com/@somilshah112/how-to-find-duplicate-or-similar-images-quickly-with-python-2d636af9452f)
 
 ## Install Requirements
 
@@ -9,9 +8,8 @@ Check out the tutorial
 
 ## Usage
 
-    python main.py
+    python main.py folder-name-in-which-your-images-are-stored
 
-## Available Functions
 
-- find_duplicates (Finding and Deleting Duplicates)
-- find_similar (Finding Similar Images to a corresponding Image)
+Credit goes to https://github.com/cw-somil/Duplicate-Remover
+I have just modified the above script for Bug bounty usage
